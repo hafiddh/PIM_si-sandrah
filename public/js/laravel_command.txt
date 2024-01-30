@@ -1,0 +1,2 @@
+php artisan migrate --path=/database/migrations/solo/
+php artisan migrate:refresh --path=/database/migrations/solo/
